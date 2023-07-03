@@ -1,0 +1,4 @@
+
+{CaminhoArquivo: C:\Users\Leandro Arraes\Documents\segurança info\leandro\teste\testando.txt,
+NomeArquivo: testando.txt,
+Hash: 6d61895343d822741da8ff1f548719c7}
